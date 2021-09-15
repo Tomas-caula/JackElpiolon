@@ -1,0 +1,6 @@
+API_KEY = "1987783422:AAGogt8LCrJEupiWbDxFmqRfN4_tmOrFWiY"
+#que mierda haces ORIBE
+DISCORD_WEBHOOKS = "https://discord.com/api/webhooks/876709523505705030/LtSdNKbEfdIFNTmoLoO1M5YusPVXiSRLJkOYiHBK-2JY-6hKz7SSHBagoulE10wEYO2e"
+
+
+ 
